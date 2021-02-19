@@ -10,6 +10,7 @@ namespace TestApp
             Console.WriteLine("Adding feature a");
             Console.WriteLine("Adding the feature b");
             Console.WriteLine("Adding more for feature_a");
+            Console.WriteLine("Adding more features for b");
         }
     }
 }
